@@ -7,4 +7,4 @@ Gutter synthesis is a purely digital synthesis process that creates very physica
 
 The synth was used for the [Entr’acte release](https://entracte.co.uk/projects/tom-mudd-e226/) of the same name
 
-![Tom Mudd, Gutter Synthesis CD, 2018](http://tommudd.co.uk/images/proj_entracte.jpg)
+<kbd><img src="http://tommudd.co.uk/images/proj_entracte.jpg"  alt=“Tom Mudd, Gutter Synthesis CD, 2018” /></kbd>
