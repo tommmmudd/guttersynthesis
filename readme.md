@@ -5,7 +5,7 @@ Standalone versions of the synth can be found via these links:
 - [OS X standalone app](http://tommudd.co.uk/gutter/software/guttersynth_64bit_osx.zip)
 - [Windows standalone exe](http://tommudd.co.uk/gutter/software/guttersynth_windows.zip)
 
-TEST <a href="http://tommudd.co.uk/gutter/software/guttersynth_64bit_osx.zip" download>Click here to download</a>
+(note: if links above do not allow a download, try right clicking the link and selecting "Copy Link Address", then pasting the url into a new tab)
 
 Gutter synthesis is a purely digital synthesis process that creates very physical, acoustic-like sounds using a network of resonant Duffing oscillators. The software was created specifically for this project, and is included with the release as an equal part of the creative output. This version uses an interrelated set of eight Duffing oscillators and associated filter banks.
 
